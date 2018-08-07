@@ -1,0 +1,6 @@
+/Users/Eski/Projects/MathsAssignment/MathsAssignment/bin/Release/MathsAssignment.exe
+/Users/Eski/Projects/MathsAssignment/MathsAssignment/obj/x86/Release/MathsAssignment.csproj.CoreCompileInputs.cache
+/Users/Eski/Projects/MathsAssignment/MathsAssignment/obj/x86/Release/MathsAssignment.exe
+/Users/Eski/Downloads/Math_Assignment 2/MathsAssignment/MathsAssignment/bin/Release/MathsAssignment.exe
+/Users/Eski/Downloads/Math_Assignment 2/MathsAssignment/MathsAssignment/obj/x86/Release/MathsAssignment.csproj.CoreCompileInputs.cache
+/Users/Eski/Downloads/Math_Assignment 2/MathsAssignment/MathsAssignment/obj/x86/Release/MathsAssignment.exe
