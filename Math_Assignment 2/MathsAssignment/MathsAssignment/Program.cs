@@ -15,14 +15,14 @@ namespace MathsAssignment
         static int DisplayMenu()
         {
             int option;
-            Console.WriteLine("1) Program to find the sum of all multiples of 3 and 5 below a specified value.");
-            Console.WriteLine("2) Program for the prime factorization of a positive integer.");
-            Console.WriteLine("3) Program to find the sum of all even Fibonacci numbers.");
-            Console.WriteLine("4) Program for the extended Euclidean algorithm.");
-            Console.WriteLine("5) Program for the RSA encryption.");
-            Console.WriteLine("6) Program for the RSA decryption.");
+            Console.WriteLine("1) sum of all multiples of 3 and 5 below a specified value.");
+            Console.WriteLine("2) prime factorization of a positive integer.");
+            Console.WriteLine("3) sum of all even Fibonacci numbers.");
+            Console.WriteLine("4) extended Euclidean algorithm.");
+            Console.WriteLine("5) RSA encryption.");
+            Console.WriteLine("6) RSA decryption.");
             Console.WriteLine("7) Quit console application");
-            Console.WriteLine("Select the program you wish to run by entering corrisponding integer, then press enter: ");
+            Console.WriteLine("Select: ");
             option = int.Parse(Console.ReadLine());
             return option;
         }
